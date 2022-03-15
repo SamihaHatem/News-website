@@ -37,3 +37,8 @@
 .arb-dir {
     direction: rtl;
 }
+
+.center-img {
+    display: block;
+    filter: grayscale(1);
+}

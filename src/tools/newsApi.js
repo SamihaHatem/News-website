@@ -1,7 +1,7 @@
 const request = require('request')
 
 const newsApi = (callbackFun) => {
-    const newsURL = 'https://newsapi.org/v2/top-headlines?country=eg&apiKey=66a34cc266c64b6eaa477c8b15c876ae'
+    const newsURL = 'https://newsapi.org/v2/top-headlines?country=eg&apiKey='
 
     request({ url: newsURL, json: true }, (error, response) => {
         if (error)
