@@ -1,0 +1,39 @@
+.green-bg {
+    background-color: #195308;
+}
+
+.color-white {
+    color: white !important;
+}
+
+.news-h {
+    color: #195308;
+    text-decoration: underline;
+    font-family: fantasy;
+}
+
+.color-green {
+    color: #0a2003 !important;
+}
+
+.date {
+    color: #836f6f;
+    font-family: fantasy;
+}
+
+.card {
+    border: 1px solid rgb(131 111 111);
+}
+
+.cont {
+    border: 1px solid #149cbf;
+    background-image: linear-gradient(rgb(150 111 111 / 12%), rgba(175, 167, 169, 0.35));
+}
+
+.card-img-top {
+    height: 250px !important;
+}
+
+.arb-dir {
+    direction: rtl;
+}
